@@ -1,6 +1,6 @@
 name: seconds
-description: Simple seconds calculator
-version: 1.0.0
+description: Simple seconds calculator. Used mostly for storage as it gets UTC seconds of a dateTime (or now).
+version: 1.0.2
 author: Subbotin Aleksei <darkandjeweled@gmail.com>
 homepage: https://github.com/Moonspeaker/seconds
 

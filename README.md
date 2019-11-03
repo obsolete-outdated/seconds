@@ -2,7 +2,7 @@
 
 Simple seconds calculator.
 
-Why a whole own library? Just to never repeat what's already written.
+Used mostly for storage as it gets UTC seconds of a dateTime (or now).
 
 ## Getting Started
 
