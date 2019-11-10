@@ -1,4 +1,4 @@
-## [1.0.3] - Reversed function
+## [1.0.4] - Reversed function
 
 added dateTimeUTCFromSeconds
 

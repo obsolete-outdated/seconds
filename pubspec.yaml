@@ -1,6 +1,6 @@
 name: seconds
 description: Simple functions to work with seconds. Used for compact dateTime storage (e.g. in database, or JWT "iat" claim).
-version: 1.0.3
+version: 1.0.4
 author: Subbotin Aleksei <darkandjeweled@gmail.com>
 homepage: https://github.com/Moonspeaker/seconds
 
