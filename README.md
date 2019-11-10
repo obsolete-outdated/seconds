@@ -1,8 +1,8 @@
 # seconds
 
-Simple seconds calculator.
+Simple functions to work with seconds. 
 
-Used mostly for storage as it gets UTC seconds of a dateTime (or now).
+Used for compact dateTime storage (e.g. in database, or JWT "iat" claim).
 
 ## Getting Started
 
